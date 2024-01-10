@@ -1,7 +1,7 @@
 {
     "jobTitle": [
         {
-            "title": "Aspirins software Developer",
+            "title": "Aspiring software Developer",
             "color": "rgb(57, 153, 0)"
         }
        
@@ -23,45 +23,57 @@
     "skills": [
         {
             "title": "Web Development",
-            "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
+            "item": ""
         },
         {
-            "title": "Database",
-            "experience": "I've have been working on different types of databases since 2009, both SQL-structured and document-based. I enjoy working on a database; for me, that is where the magic happens. A well-structured database is the result of data integrity and many more."
+            "title": "JAVA SCRIPT",
+            "item": ""
         },
         {
-            "title": "API",
-            "experience": "In case we want to secure, identify, and authorize access to a user on a specific resource, we need to have an API, which is a glue between the front end and back end. We can set up a lot of features or logic, such as middleware, database configuration, JSON web tokens, and many more. For the past 7 years, I have been working on APIs using Django and ExpressJS."
+            "title": "CSS",
+            "item": ""
         },
         {
-            "title": "Programming",
-            "experience": "When it comes to programming, I have a lot to say, but I will be brief. Programming and database management are the skills that will stay with me forever, even though it is my first time to come across another programming language. It is crazy how I knew it syntax before starting coding. I have a decade of working experience on the following programming languages: C++, Python, Delphi, Javascript, VB.Net, C#, and Java. I still want to learn more about them."
+            "title": "HTML",
+            "item": ""
         }
     ],
     "testimonials": [
         {
-            "name": "Rachel",
-            "surname": "Mukanya",
-            "quotes": "Joel never ceases to amaze me with the vast amount of knowledge he has acquired over the years in software development. He is truly a great mentor.",
+            "name": "Razeen",
+            "surname": "mackenzie",
+            "quotes": "Sivuyisiwe show the most enthusiasm in here work of anyone I've ever met. She has shown to be diligent because she always doing her work as meticulously as she possibly can. she has an incredible sense of humor an show cases initiative in the amount work she puts out for her team and Im sure she will fit in just spectacularly with yours too.",
             "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
         },
         {
-            "name": "Ruth",
-            "surname": "Mukanya",
-            "quotes": "Joel is a nice person. Someone who is really reliable and honest always does his work and makes sure everything is well organized.",
-            "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
+            "name": "Rezaar",
+            "surname": "Osman",
+            "quotes": "Sivuyisiwe is a very passionate person especially when it comes to web development, her adaptability and quick learning skills really inspires me and if a client had to hire her I believe she would deliver.",
+            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTnAzuBeI9HE1FeOiqtUT04ra0lK6pBk3IM0A4U0R_5s5lW7W7fV9qdDd4J1lWev0r_jOyt2GvieHpJy5rjOIKcq7Gchg=w600-h1300"
         },
         {
-            "name": "Lazola",
-            "surname": "Makubalo",
-            "quotes": "Joel Tshimanga Mukunya is an incredibly humble intellectual. He is an outstanding lecturer who consistently finds effective ways to ensure that everyone comprehends the content. Additionally, he has a delightful personality, making him a joy to be around.",
+            "name": "Carl",
+            "surname": "James",
+            "quotes": "Sivuyisiwe is an exceptional coder with a sharp eye for detail. Her ability to swiftly identify and resolve errors makes her an invaluable asset. Beyond her technical prowess, Sivuyisiwe's passion for continuous learning and willingness to share knowledge make her a standout collaborator. Working with Sivuyisiwe is not just a project; it's an opportunity to elevate the coding experience. Highly recommended.",
             "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
         },
         {
-            "name": "Dr. Godwin P",
-            "surname": "Dzvapatsva",
-            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies. However, what truly sets Joel apart is his exceptional teaching skills. He has a natural talent for breaking down complex concepts into easily digestible bits, making the learning process enjoyable and engaging. Joel's patience and willingness to go the extra mile to ensure every student grasps the material are truly commendable. I consider myself fortunate to have learned from him, and I wholeheartedly recommend him as an outstanding educator.",
-            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+            "name": "Pinda",
+            "surname": "fortuin",
+            "quotes": "I am thrilled to share my heartfelt testimonial for Sivuyisiwe, a remarkable colleague. Her expertise in HTML, CSS, Vue.js, JavaScript, and  is truly impressive, and she effortlessly demonstrates adequate proficiency in these technologies. However, what truly sets Sivuyisiwe apart is his exceptional adapting skills.  I consider myself fortunate to have learned from her, and I wholeheartedly recommend her as an outstanding colleague.",
+            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQe8KIVYDkNFy5bFw24GHBBYblHrCfDmtxROyRhE08nSw0vhK7hcNDAzKBiCmFqh8kSUrir3Yh-2PVqpLG_n-cVTjmL_g=w1960-h4244"
+        },
+        {
+            "name": "rethabile",
+            "surname": "Makaotsi",
+            "quotes": "Sivuyisiwe Peter is a very hardworking and efficient person , she strives to get her work done to the best potential and executes a well structured work during Projects week",
+            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRTQ46JaC3bYlmsVMGO6Ofx-hRvBL9jkhDZpjLpHnba3wNGVkJMAnhKOyTjnAa_2flvvXm_OT1VDoQEz4zCUL6EU0tz=w600-h1300"
+        },
+        {
+            "name": "Ntokozo",
+            "surname": "Sithebe",
+            "quotes": "Sivuyisiwe is a very intelligent young lady who always strives for the best despite the challenges. She is the true definition of dynamites come in small packages.",
+            "profile": "https://drive.google.com/uc?id=12vzgEI72kkm-PGr9X83XU6Yuf6RRnd8I"
         }
     ],
     "projects":[
