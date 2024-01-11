@@ -87,6 +87,13 @@
             "netlify": "https://sivutodolist.netlify.app/"
         },
         {
+            "name": "To-do List",
+            "description": "I built this application using HTML 5, CSS, and Javascript.",
+            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQkoqVWfj11edR-SjXZLHPdQn3jNFuHnInge2TDSv7izu5nB8g8GX6JZlEB8Q034DzpHzhGjOQEOddcJdNxF_TbmXH_MQ=w600-h1300",
+            "gitHub": "https://github.com/SIVUPE/To-Do-list.git",
+            "netlify": "https://sivutodolist.netlify.app/"
+        },
+        {
             "name": "BMI  Calculator",
             "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
             "image": "https://lh3.google.com/u/0/drive-viewer/AEYmBYRCpWWyIVhveOukKdOwwWB-C6l6PxcgykRigExT9UKrMZ21z74GXEZPim_6bgBFLr_OQYkuc4U7b1ngm3LDDEWP4VdB1A=w600-h1300",
